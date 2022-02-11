@@ -22,7 +22,7 @@ Therefore, after the add-on work, you need to manually rename vertex groups.
 
 Current add-on version
 -
-1.0.0.
+1.0.1.
 
 Blender versions
 -
@@ -40,5 +40,8 @@ Installation
 Version history
 -
 
-1.0.0.
+1.0.1.
+- Fixed issue with incorrect counting of vertex groups amount on complex objects.
+
+- 1.0.0.
 - This release.

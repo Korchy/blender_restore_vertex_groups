@@ -13,7 +13,7 @@ bl_info = {
     'name': 'Restore Vertex Groups',
     'category': 'All',
     'author': 'Nikita Akimov',
-    'version': (1, 0, 0),
+    'version': (1, 0, 1),
     'blender': (2, 93, 0),
     'location': '3D Viewport window - RVG tab',
     'wiki_url': 'https://b3d.interplanety.org/en/blender-add-on-restore-vertex-groups/',
