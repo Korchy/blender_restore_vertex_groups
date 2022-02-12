@@ -29,4 +29,4 @@ class RVG:
         for vertex in obj_data.vertices:
             for group in vertex.groups:
                 _id = max(_id, group.group)
-        return _id
+        return _id + 1
